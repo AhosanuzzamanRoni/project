@@ -1,11 +1,10 @@
 import React from "react";
-import Card2 from './components/Card2'
+import State from './State'
 
  function App() {
     return (
         <div>
-            <Card2 name='Card2'/>
-            <Card2/>
+           <State/>
             
         </div>
     )
